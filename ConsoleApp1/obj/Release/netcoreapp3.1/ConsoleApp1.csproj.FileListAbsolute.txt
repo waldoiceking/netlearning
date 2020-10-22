@@ -1,0 +1,13 @@
+D:\个人学习\Csharplearning\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.exe
+D:\个人学习\Csharplearning\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.deps.json
+D:\个人学习\Csharplearning\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\个人学习\Csharplearning\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\个人学习\Csharplearning\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.dll
+D:\个人学习\Csharplearning\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.pdb
+D:\个人学习\Csharplearning\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\个人学习\Csharplearning\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\个人学习\Csharplearning\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\个人学习\Csharplearning\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\个人学习\Csharplearning\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.dll
+D:\个人学习\Csharplearning\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.pdb
+D:\个人学习\Csharplearning\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
