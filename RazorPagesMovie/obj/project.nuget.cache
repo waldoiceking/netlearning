@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PWcp9FoOsqR7Hcxaufl1d505MAk2TK3jUUm4Jl53xlM1HUCH2cj0Nrn4ooWtEknlIigeaoBCvBMjg3oTmo2iVA==",
+  "dgSpecHash": "VvfJaR+rKInwsxk2VUdfniQVQmnqc/dDrlhERanqnMA/uRB/R+2ytyrTF/bU9nVf+zUggeaApfILZmJiuvQA2g==",
   "success": true,
-  "projectFilePath": "D:\\个人学习\\Csharplearning\\RazorPagesMovie\\RazorPagesMovie.csproj",
+  "projectFilePath": "D:\\个人学习\\netlearning\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\22920\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\22920\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

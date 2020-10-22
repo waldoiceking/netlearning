@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\个人学习\\Csharplearning\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "D:\\个人学习\\netlearning\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "D:\\个人学习\\Csharplearning\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "D:\\个人学习\\netlearning\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\个人学习\\Csharplearning\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "D:\\个人学习\\netlearning\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "D:\\个人学习\\Csharplearning\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "D:\\个人学习\\netlearning\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\22920\\.nuget\\packages\\",
-        "outputPath": "D:\\个人学习\\Csharplearning\\RazorPagesMovie\\obj\\",
+        "outputPath": "D:\\个人学习\\netlearning\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\22920\\AppData\\Roaming\\NuGet\\NuGet.Config",
